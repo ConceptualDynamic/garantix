@@ -80,7 +80,7 @@ El modelo cubre más de 70 usos, agrupados así:
 - **Comercio exterior:** importación y exportación contra documentos verificados.
 - **Obras, proyectos y EPC:** telecomunicaciones, energía, infraestructura; pagos por hito certificado.
 - **Agro y agroindustria.**
-- **Gobierno, contratación pública y privatizaciones** (sujeto al marco de sanciones aplicable).
+- **Contratación corporativa de gran escala** entre empresas privadas, pagada por hitos certificados. La contratación pública queda en evaluación, sujeta al marco de sanciones aplicable.
 - **Compra de empresas (M&A) y activos.**
 - **Fondos multilaterales y financiamiento de proyectos.**
 - **Servicios profesionales, freelance y economía digital.**
