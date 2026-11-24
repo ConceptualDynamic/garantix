@@ -156,7 +156,7 @@ Los repositorios están hoy bajo la organización de Conceptual Dynamic, que des
 | Etapa | Meta |
 |---|---|
 | **Días 1–30** | Primera operación real con el primer banco aliado, con firma digital por correo y factura electrónica |
-| **Días 31–60** | Integración por API con el banco, módulos de todos los tipos de aliado, lanzamiento comercial en Bancamiga |
+| **Días 31–60** | Integración por API con el banco, módulos de todos los tipos de aliado, lanzamiento comercial en el primer banco |
 | **Días 61–90** | Operación en todos los segmentos, verificadores, disputas, reportes para el banco y preparación del segundo banco |
 | **Siguiente** | Más bancos en Venezuela, empresa en EE. UU. y expansión a Latinoamérica, EE. UU. y Europa |
 
