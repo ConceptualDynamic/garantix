@@ -64,7 +64,7 @@ Ninguna empresa relacionada con los fundadores participa como verificador, pilot
 
 ## Powered by Garantix
 
-Los bancos venden el servicio con su propia marca, **Powered by Garantix**. El cliente ve a su banco; Garantix pone las reglas, la tecnología y la trazabilidad. El primer banco aliado es **Bancamiga**.
+Los bancos venden el servicio con su propia marca, **Powered by Garantix**. El cliente ve a su banco; Garantix pone las reglas, la tecnología y la trazabilidad.
 
 ¿Por qué le conviene al banco? Los fondos en fideicomiso forman un patrimonio separado y se registran en cuentas de orden, fuera de las obligaciones sobre las que se calcula el encaje legal. El banco custodia sin inmovilizar fondos y cobra su comisión fiduciaria.
 
@@ -118,7 +118,7 @@ La red de aliados es de Garantix y funciona con todos los bancos aliados. Pueden
                ┌─────────▼──┐ ┌──────▼─────┐ ┌───▼───────┐ ┌─▼──────────────┐
                │  Conector  │ │ Firma y    │ │   Odoo    │ │ Verificación   │
                │  bancario  │ │ documentos │ │ facturas, │ │ de listas de   │
-               │ (Bancamiga)│ │ (correo +  │ │ fiscal,   │ │ sancionados    │
+               │ (banco)    │ │ (correo +  │ │ fiscal,   │ │ sancionados    │
                │            │ │ firma cert.)│ │ aliados   │ │                │
                └────────────┘ └────────────┘ └───────────┘ └────────────────┘
 ```
@@ -137,7 +137,7 @@ La red de aliados es de Garantix y funciona con todos los bancos aliados. Pueden
 | `garantix-platform` | Garantix Core: API, motor de operaciones, reglas por uso, auditoría | Privado |
 | `garantix-portals` | Portal de clientes, módulos de aliados (uno por tipo), verificador y backoffice del banco | Privado |
 | `garantix-odoo` | Módulos de Odoo 19: facturación, separación fiscal, aliados y recompensas | Privado |
-| `garantix-bank-connectors` | Conectores bancarios, empezando por Bancamiga | Privado |
+| `garantix-bank-connectors` | Conectores bancarios, uno por banco aliado | Privado |
 | `garantix-signing` | Generación de documentos, envío por correo y firma electrónica | Privado |
 | `garantix-legal` | Plantillas y borradores legales | Privado |
 
@@ -155,7 +155,7 @@ Los repositorios están hoy bajo la organización de Conceptual Dynamic, que des
 
 | Etapa | Meta |
 |---|---|
-| **Días 1–30** | Primera operación real con Bancamiga, con firma digital por correo y factura electrónica |
+| **Días 1–30** | Primera operación real con el primer banco aliado, con firma digital por correo y factura electrónica |
 | **Días 31–60** | Integración por API con el banco, módulos de todos los tipos de aliado, lanzamiento comercial en Bancamiga |
 | **Días 61–90** | Operación en todos los segmentos, verificadores, disputas, reportes para el banco y preparación del segundo banco |
 | **Siguiente** | Más bancos en Venezuela, empresa en EE. UU. y expansión a Latinoamérica, EE. UU. y Europa |
