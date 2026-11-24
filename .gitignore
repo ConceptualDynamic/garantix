@@ -1,0 +1,17 @@
+# Nunca versionar secretos ni datos de clientes
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+firmados/
+signed/
+conciliacion/
+exports/
+*.sqlite
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store
