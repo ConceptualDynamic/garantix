@@ -80,7 +80,7 @@ El modelo cubre más de 70 usos, agrupados así:
 - **Comercio exterior:** importación y exportación contra documentos verificados.
 - **Obras, proyectos y EPC:** telecomunicaciones, energía, infraestructura; pagos por hito certificado.
 - **Agro y agroindustria.**
-- **Gobierno, contratación pública y privatizaciones** (sujeto al marco de sanciones aplicable).
+- **Contratación corporativa de gran escala** entre empresas privadas, pagada por hitos certificados. La contratación pública queda en evaluación, sujeta al marco de sanciones aplicable.
 - **Compra de empresas (M&A) y activos.**
 - **Fondos multilaterales y financiamiento de proyectos.**
 - **Servicios profesionales, freelance y economía digital.**
@@ -138,7 +138,7 @@ La red de aliados es de Garantix y funciona con todos los bancos aliados. Pueden
 | `garantix-docs` | Bases y decisiones, documento técnico, plan de 90 días, plan comercial, requerimientos al banco | Privado |
 | `garantix-platform` | Garantix Core: API, motor de operaciones, reglas por uso, auditoría | Privado |
 | `garantix-portals` | Módulo para la banca en línea (personas y empresas), portal de clientes, módulos de aliados (uno por tipo), verificador y backoffice del banco | Privado |
-| `garantix-odoo` | Módulos de Odoo 19: facturación, separación fiscal, aliados y recompensas | Privado |
+| `garantix-odoo` | Módulos de Odoo 20: facturación, separación fiscal, aliados y recompensas | Privado |
 | `garantix-bank-connectors` | Conectores bancarios, empezando por Bancamiga | Privado |
 | `garantix-signing` | Generación de documentos, envío por correo y firma electrónica | Privado |
 | `garantix-legal` | Plantillas y borradores legales | Privado |
