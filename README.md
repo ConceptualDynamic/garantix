@@ -138,7 +138,7 @@ La red de aliados es de Garantix y funciona con todos los bancos aliados. Pueden
 | `garantix-docs` | Bases y decisiones, documento técnico, plan de 90 días, plan comercial, requerimientos al banco | Privado |
 | `garantix-platform` | Garantix Core: API, motor de operaciones, reglas por uso, auditoría | Privado |
 | `garantix-portals` | Módulo para la banca en línea (personas y empresas), portal de clientes, módulos de aliados (uno por tipo), verificador y backoffice del banco | Privado |
-| `garantix-odoo` | Módulos de Odoo 19: facturación, separación fiscal, aliados y recompensas | Privado |
+| `garantix-odoo` | Módulos de Odoo 20: facturación, separación fiscal, aliados y recompensas | Privado |
 | `garantix-bank-connectors` | Conectores bancarios, empezando por Bancamiga | Privado |
 | `garantix-signing` | Generación de documentos, envío por correo y firma electrónica | Privado |
 | `garantix-legal` | Plantillas y borradores legales | Privado |
